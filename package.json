@@ -1,9 +1,13 @@
 {
   "name": "express-id",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Express middleware to inject IDs to paths",
   "main": "index.js",
-  "keywords": [ "express", "id", "shortid" ],
+  "keywords": [
+    "express",
+    "id",
+    "shortid"
+  ],
   "author": "Ates Goral <ates@magnetiq.com> (http://magnetiq.com/)",
   "license": "ISC"
 }
