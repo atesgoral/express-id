@@ -1,6 +1,6 @@
 # express-id
 
-Express middleware to injects IDs to paths
+Express middleware to inject IDs to paths.
 
 ## Usage
 
